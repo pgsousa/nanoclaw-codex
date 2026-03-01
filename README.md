@@ -1,3 +1,7 @@
+# NanoClaw Codex (pgsousa fork)
+
+> Fork adaptado para OpenAI Codex SDK. Ver detalhes em `README-CODEX.md`.
+
 <p align="center">
   <img src="assets/nanoclaw-logo.png" alt="NanoClaw" width="400">
 </p>
